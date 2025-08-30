@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>tamil</h2>
-     <a href="{{route('category.create')}}">bbbb</a>
+    <h1>
+        ksnfjkqjbfhafbkahbfbujhbfulhvfquhjvfbj,H,VhefkvfEVHjefj
+    </h1>
+    
 </body>
 </html>

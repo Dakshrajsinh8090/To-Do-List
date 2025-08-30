@@ -5,7 +5,7 @@
 </head>
 <body>
     <div>
-        <h2>Edit Category</h2>
+        <h1>Edit Category</h1>
 
         @if ($errors->any())
             <div>
