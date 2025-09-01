@@ -5,6 +5,10 @@
 </head>
 <body>
     <div>
+        <p>qwbhjdjqwdwdiq jenfkejhfkf kbfjk a kn kqe,fkqnflneln flfmleqmfleqn flqn/lf nlnfe mefql mlfqe flqnfq lnfml mqflkqlfmqln   efqew
+            fewm;lmw 
+            wefwff
+        </p>
         <h1>Edit Category</h1>
 
         @if ($errors->any())
